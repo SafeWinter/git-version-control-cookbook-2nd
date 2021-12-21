@@ -8,20 +8,20 @@
 
 笔记将按照原书的章节安排进行梳理：
 
-| No.  |                            Title                             |   Status   |
-| :--: | :----------------------------------------------------------: | :--------: |
-| Ch01 |                 [Navigating Git](./Ch01.md)                  |  **done**  |
-| Ch02 |                  [Configuration](./Ch02.md)                  |  **done**  |
-| Ch03 |         [Branching, Merging, and Options](./Ch03.md)         |  **done**  |
-| Ch04 | [Rebasing Regularly and Interactively, and Other Use](./Ch04.md) |  **done**  |
-| Ch05 | [Storing Additional Information in Your Repository](./Ch05.md) |  **done**  |
-| Ch06 |       [Extracting Data from the Repository](./Ch06.md)       |  **done**  |
-| Ch07 | [Enhancing Your Daily Work with Git Hooks, Aliases, and Scripts](./Ch07.md) |  **done**  |
-| Ch08 |            [Recovering from Mistakes](./Ch08.md)             | *learning* |
-| Ch09 |                    Repository Maintenance                    |    todo    |
-| Ch10 |                 Patching and Offline Sharing                 |    todo    |
-| Ch11 |                       Tips and Tricks                        |    todo    |
-| Ch12 |           Git Providers, Integrations, and Clients           |    todo    |
+| No.  |                            Title                             |     Status     |
+| :--: | :----------------------------------------------------------: | :------------: |
+| Ch01 |                 [Navigating Git](./Ch01.md)                  |    **done**    |
+| Ch02 |                  [Configuration](./Ch02.md)                  |    **done**    |
+| Ch03 |         [Branching, Merging, and Options](./Ch03.md)         |    **done**    |
+| Ch04 | [Rebasing Regularly and Interactively, and Other Use](./Ch04.md) |    **done**    |
+| Ch05 | [Storing Additional Information in Your Repository](./Ch05.md) |    **done**    |
+| Ch06 |       [Extracting Data from the Repository](./Ch06.md)       |    **done**    |
+| Ch07 | [Enhancing Your Daily Work with Git Hooks, Aliases, and Scripts](./Ch07.md) |    **done**    |
+| Ch08 |            [Recovering from Mistakes](./Ch08.md)             | ***learning*** |
+| Ch09 |             [Repository Maintenance](./Ch09.md)              |      todo      |
+| Ch10 |          [Patching and Offline Sharing](./Ch10.md)           |      todo      |
+| Ch11 |                       Tips and Tricks                        |      todo      |
+| Ch12 |           Git Providers, Integrations, and Clients           |      todo      |
 
 
 
