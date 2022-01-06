@@ -1,4 +1,4 @@
-# 《Git 版本控制手册（第二版）》学习笔记
+# 《Git Version Control Cookbook - 2nd Edition》学习笔记
 
 ![book cover](./assets/cover.png)
 
@@ -19,8 +19,8 @@
 | Ch07 | [Enhancing Your Daily Work with Git Hooks, Aliases, and Scripts](./Ch07.md) |   **done**    |
 | Ch08 |            [Recovering from Mistakes](./Ch08.md)             |   **done**    |
 | Ch09 |             [Repository Maintenance](./Ch09.md)              |   **done**    |
-| Ch10 |          [Patching and Offline Sharing](./Ch10.md)           | ***working*** |
-| Ch11 |                 [Tips and Tricks](./Ch11.md)                 |     read      |
+| Ch10 |          [Patching and Offline Sharing](./Ch10.md)           |  ***done***   |
+| Ch11 |                 [Tips and Tricks](./Ch11.md)                 | ***working*** |
 | Ch12 |    [Git Providers, Integrations, and Clients](./Ch12.md)     |     read      |
 
 
