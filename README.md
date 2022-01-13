@@ -8,20 +8,22 @@
 
 笔记将按照原书的章节安排进行梳理：
 
-| No.  |                            Title                             |    Status     |
-| :--: | :----------------------------------------------------------: | :-----------: |
-| Ch01 |                 [Navigating Git](./Ch01.md)                  |   **done**    |
-| Ch02 |                  [Configuration](./Ch02.md)                  |   **done**    |
-| Ch03 |         [Branching, Merging, and Options](./Ch03.md)         |   **done**    |
-| Ch04 | [Rebasing Regularly and Interactively, and Other Use](./Ch04.md) |   **done**    |
-| Ch05 | [Storing Additional Information in Your Repository](./Ch05.md) |   **done**    |
-| Ch06 |       [Extracting Data from the Repository](./Ch06.md)       |   **done**    |
-| Ch07 | [Enhancing Your Daily Work with Git Hooks, Aliases, and Scripts](./Ch07.md) |   **done**    |
-| Ch08 |            [Recovering from Mistakes](./Ch08.md)             |   **done**    |
-| Ch09 |             [Repository Maintenance](./Ch09.md)              |   **done**    |
-| Ch10 |          [Patching and Offline Sharing](./Ch10.md)           |  ***done***   |
-| Ch11 |                 [Tips and Tricks](./Ch11.md)                 | ***working*** |
-| Ch12 |    [Git Providers, Integrations, and Clients](./Ch12.md)     |     read      |
+Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Working) | :no_entry: (Not Started) | :orange_book: (Read but not started)
+
+| No.  |                            Title                             |          Status          |
+| :--: | :----------------------------------------------------------: | :----------------------: |
+| Ch01 |                 [Navigating Git](./Ch01.md)                  |    :heavy_check_mark:    |
+| Ch02 |                  [Configuration](./Ch02.md)                  |    :heavy_check_mark:    |
+| Ch03 |         [Branching, Merging, and Options](./Ch03.md)         |    :heavy_check_mark:    |
+| Ch04 | [Rebasing Regularly and Interactively, and Other Use](./Ch04.md) |    :heavy_check_mark:    |
+| Ch05 | [Storing Additional Information in Your Repository](./Ch05.md) |    :heavy_check_mark:    |
+| Ch06 |       [Extracting Data from the Repository](./Ch06.md)       |    :heavy_check_mark:    |
+| Ch07 | [Enhancing Your Daily Work with Git Hooks, Aliases, and Scripts](./Ch07.md) |    :heavy_check_mark:    |
+| Ch08 |            [Recovering from Mistakes](./Ch08.md)             |    :heavy_check_mark:    |
+| Ch09 |             [Repository Maintenance](./Ch09.md)              |    :heavy_check_mark:    |
+| Ch10 |          [Patching and Offline Sharing](./Ch10.md)           |    :heavy_check_mark:    |
+| Ch11 |                 [Tips and Tricks](./Ch11.md)                 | :hourglass_flowing_sand: |
+| Ch12 |    [Git Providers, Integrations, and Clients](./Ch12.md)     |      :orange_book:       |
 
 
 
