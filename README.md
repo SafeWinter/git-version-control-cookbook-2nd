@@ -1,4 +1,4 @@
-# 《Git Version Control Cookbook - 2nd Edition》学习笔记
+# 《Git Version Control Cookbook - 2nd Edition》Notes
 
 ![book cover](./assets/cover.png)
 
@@ -22,8 +22,8 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 | Ch08 |            [Recovering from Mistakes](./Ch08.md)             |    :heavy_check_mark:    |
 | Ch09 |             [Repository Maintenance](./Ch09.md)              |    :heavy_check_mark:    |
 | Ch10 |          [Patching and Offline Sharing](./Ch10.md)           |    :heavy_check_mark:    |
-| Ch11 |                 [Tips and Tricks](./Ch11.md)                 | :hourglass_flowing_sand: |
-| Ch12 |    [Git Providers, Integrations, and Clients](./Ch12.md)     |      :orange_book:       |
+| Ch11 |                 [Tips and Tricks](./Ch11.md)                 |    :heavy_check_mark:    |
+| Ch12 |    [Git Providers, Integrations, and Clients](./Ch12.md)     | :hourglass_flowing_sand: |
 
 
 
